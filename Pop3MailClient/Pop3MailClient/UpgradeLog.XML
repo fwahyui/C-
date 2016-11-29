@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Pop3MailClient">
+</Property><Property Name="Solution File" Value="F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient.sln">
+</Property><Property Name="Date" Value="Sunday, November 23, 2014">
+</Property><Property Name="Time" Value="11:28 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Pop3MailClient.sln" Description="File successfully backed up as F:\Download\Pop3MailClient\Pop3MailClient\Backup\Pop3MailClient.sln">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Pop3MailClient.csproj" Description="Project file successfully backed up as F:\Download\Pop3MailClient\Pop3MailClient\Backup\Pop3MailClient\Pop3MailClient.csproj">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Pop3MailClient.cs" Description="File successfully backed up as F:\Download\Pop3MailClient\Pop3MailClient\Backup\Pop3MailClient\Pop3MailClient.cs">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Program.cs" Description="File successfully backed up as F:\Download\Pop3MailClient\Pop3MailClient\Backup\Pop3MailClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Download\Pop3MailClient\Pop3MailClient\Backup\Pop3MailClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Pop3MailClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Pop3MailClient" Source="Pop3MailClient\Pop3MailClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Pop3MailClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Pop3MailClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Pop3MailClient" Source="Pop3MailClient\Pop3MailClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

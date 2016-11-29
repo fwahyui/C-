@@ -1,0 +1,9 @@
+F:\Download\Email_Client\Email Client\Email Client\bin\Debug\Email Client.exe.config
+F:\Download\Email_Client\Email Client\Email Client\bin\Debug\Email Client.exe
+F:\Download\Email_Client\Email Client\Email Client\bin\Debug\Email Client.pdb
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\ResolveAssemblyReference.cache
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\Email_Client.EmailClient.resources
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\Email_Client.Properties.Resources.resources
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\Email Client.csproj.GenerateResource.Cache
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\Email Client.exe
+F:\Download\Email_Client\Email Client\Email Client\obj\Debug\Email Client.pdb

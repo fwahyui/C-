@@ -1,0 +1,5 @@
+F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.exe
+F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient\bin\Debug\Pop3MailClient.pdb
+F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\Pop3MailClient.exe
+F:\Download\Pop3MailClient\Pop3MailClient\Pop3MailClient\obj\Debug\Pop3MailClient.pdb

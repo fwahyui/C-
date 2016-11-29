@@ -1,0 +1,8 @@
+F:\Download\SMTPmail_src\obj\Debug\SMTPmail.exe
+F:\Download\SMTPmail_src\obj\Debug\SMTPmail.pdb
+F:\Download\SMTPmail_src\bin\Debug\SMTPmail.exe
+F:\Download\SMTPmail_src\bin\Debug\SMTPmail.pdb
+F:\Download\SMTPmail_src\obj\Debug\ResolveAssemblyReference.cache
+F:\Download\SMTPmail_src\obj\Debug\SMTPmail.Form1.resources
+F:\Download\SMTPmail_src\obj\Debug\SMTPmail.csproj.GenerateResource.Cache
+F:\Download\SMTPmail_src\obj\Debug\SMTPmail.Form2.resources
